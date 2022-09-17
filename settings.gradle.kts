@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "My Portfolio"
-include ':app'
+include(":app")
